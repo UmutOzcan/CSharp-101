@@ -1,0 +1,14 @@
+C:\Users\Umut\Desktop\codes\C#\Variable\bin\Debug\net7.0\Variable.exe
+C:\Users\Umut\Desktop\codes\C#\Variable\bin\Debug\net7.0\Variable.deps.json
+C:\Users\Umut\Desktop\codes\C#\Variable\bin\Debug\net7.0\Variable.runtimeconfig.json
+C:\Users\Umut\Desktop\codes\C#\Variable\bin\Debug\net7.0\Variable.dll
+C:\Users\Umut\Desktop\codes\C#\Variable\bin\Debug\net7.0\Variable.pdb
+C:\Users\Umut\Desktop\codes\C#\Variable\obj\Debug\net7.0\Variable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umut\Desktop\codes\C#\Variable\obj\Debug\net7.0\Variable.AssemblyInfoInputs.cache
+C:\Users\Umut\Desktop\codes\C#\Variable\obj\Debug\net7.0\Variable.AssemblyInfo.cs
+C:\Users\Umut\Desktop\codes\C#\Variable\obj\Debug\net7.0\Variable.csproj.CoreCompileInputs.cache
+C:\Users\Umut\Desktop\codes\C#\Variable\obj\Debug\net7.0\Variable.dll
+C:\Users\Umut\Desktop\codes\C#\Variable\obj\Debug\net7.0\refint\Variable.dll
+C:\Users\Umut\Desktop\codes\C#\Variable\obj\Debug\net7.0\Variable.pdb
+C:\Users\Umut\Desktop\codes\C#\Variable\obj\Debug\net7.0\Variable.genruntimeconfig.cache
+C:\Users\Umut\Desktop\codes\C#\Variable\obj\Debug\net7.0\ref\Variable.dll
