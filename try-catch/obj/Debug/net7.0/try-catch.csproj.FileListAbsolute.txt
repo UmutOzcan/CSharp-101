@@ -1,0 +1,14 @@
+C:\Users\Umut\Desktop\codes\C#\try-catch\bin\Debug\net7.0\try-catch.exe
+C:\Users\Umut\Desktop\codes\C#\try-catch\bin\Debug\net7.0\try-catch.deps.json
+C:\Users\Umut\Desktop\codes\C#\try-catch\bin\Debug\net7.0\try-catch.runtimeconfig.json
+C:\Users\Umut\Desktop\codes\C#\try-catch\bin\Debug\net7.0\try-catch.dll
+C:\Users\Umut\Desktop\codes\C#\try-catch\bin\Debug\net7.0\try-catch.pdb
+C:\Users\Umut\Desktop\codes\C#\try-catch\obj\Debug\net7.0\try-catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umut\Desktop\codes\C#\try-catch\obj\Debug\net7.0\try-catch.AssemblyInfoInputs.cache
+C:\Users\Umut\Desktop\codes\C#\try-catch\obj\Debug\net7.0\try-catch.AssemblyInfo.cs
+C:\Users\Umut\Desktop\codes\C#\try-catch\obj\Debug\net7.0\try-catch.csproj.CoreCompileInputs.cache
+C:\Users\Umut\Desktop\codes\C#\try-catch\obj\Debug\net7.0\try-catch.dll
+C:\Users\Umut\Desktop\codes\C#\try-catch\obj\Debug\net7.0\refint\try-catch.dll
+C:\Users\Umut\Desktop\codes\C#\try-catch\obj\Debug\net7.0\try-catch.pdb
+C:\Users\Umut\Desktop\codes\C#\try-catch\obj\Debug\net7.0\try-catch.genruntimeconfig.cache
+C:\Users\Umut\Desktop\codes\C#\try-catch\obj\Debug\net7.0\ref\try-catch.dll
