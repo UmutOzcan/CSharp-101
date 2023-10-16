@@ -1,0 +1,14 @@
+C:\Users\Umut\Desktop\codes\C#\switch-case\bin\Debug\net7.0\switch-case.exe
+C:\Users\Umut\Desktop\codes\C#\switch-case\bin\Debug\net7.0\switch-case.deps.json
+C:\Users\Umut\Desktop\codes\C#\switch-case\bin\Debug\net7.0\switch-case.runtimeconfig.json
+C:\Users\Umut\Desktop\codes\C#\switch-case\bin\Debug\net7.0\switch-case.dll
+C:\Users\Umut\Desktop\codes\C#\switch-case\bin\Debug\net7.0\switch-case.pdb
+C:\Users\Umut\Desktop\codes\C#\switch-case\obj\Debug\net7.0\switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umut\Desktop\codes\C#\switch-case\obj\Debug\net7.0\switch-case.AssemblyInfoInputs.cache
+C:\Users\Umut\Desktop\codes\C#\switch-case\obj\Debug\net7.0\switch-case.AssemblyInfo.cs
+C:\Users\Umut\Desktop\codes\C#\switch-case\obj\Debug\net7.0\switch-case.csproj.CoreCompileInputs.cache
+C:\Users\Umut\Desktop\codes\C#\switch-case\obj\Debug\net7.0\switch-case.dll
+C:\Users\Umut\Desktop\codes\C#\switch-case\obj\Debug\net7.0\refint\switch-case.dll
+C:\Users\Umut\Desktop\codes\C#\switch-case\obj\Debug\net7.0\switch-case.pdb
+C:\Users\Umut\Desktop\codes\C#\switch-case\obj\Debug\net7.0\switch-case.genruntimeconfig.cache
+C:\Users\Umut\Desktop\codes\C#\switch-case\obj\Debug\net7.0\ref\switch-case.dll
