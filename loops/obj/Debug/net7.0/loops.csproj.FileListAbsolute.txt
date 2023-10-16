@@ -1,0 +1,14 @@
+C:\Users\Umut\Desktop\codes\C#\loops\bin\Debug\net7.0\loops.exe
+C:\Users\Umut\Desktop\codes\C#\loops\bin\Debug\net7.0\loops.deps.json
+C:\Users\Umut\Desktop\codes\C#\loops\bin\Debug\net7.0\loops.runtimeconfig.json
+C:\Users\Umut\Desktop\codes\C#\loops\bin\Debug\net7.0\loops.dll
+C:\Users\Umut\Desktop\codes\C#\loops\bin\Debug\net7.0\loops.pdb
+C:\Users\Umut\Desktop\codes\C#\loops\obj\Debug\net7.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umut\Desktop\codes\C#\loops\obj\Debug\net7.0\loops.AssemblyInfoInputs.cache
+C:\Users\Umut\Desktop\codes\C#\loops\obj\Debug\net7.0\loops.AssemblyInfo.cs
+C:\Users\Umut\Desktop\codes\C#\loops\obj\Debug\net7.0\loops.csproj.CoreCompileInputs.cache
+C:\Users\Umut\Desktop\codes\C#\loops\obj\Debug\net7.0\loops.dll
+C:\Users\Umut\Desktop\codes\C#\loops\obj\Debug\net7.0\refint\loops.dll
+C:\Users\Umut\Desktop\codes\C#\loops\obj\Debug\net7.0\loops.pdb
+C:\Users\Umut\Desktop\codes\C#\loops\obj\Debug\net7.0\loops.genruntimeconfig.cache
+C:\Users\Umut\Desktop\codes\C#\loops\obj\Debug\net7.0\ref\loops.dll
