@@ -8,7 +8,7 @@ public class Directory
         persons.Add(new Person("Yusuf", "Ozcan", "5555555556"));
         persons.Add(new Person("Ayse", "Yıldırım", "5555555557"));
         persons.Add(new Person("Mehmet", "Güneş", "5555555558"));
-        persons.Add(new Person("Orhan", "Ünsal", "5555555559"));
+        persons.Add(new Person("Fimple", "Patika", "5555555559"));
     }
 
     public void AddNo()

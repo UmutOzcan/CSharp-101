@@ -1,9 +1,5 @@
 public class Person
 {
-    private readonly string name;
-    private readonly string surName;
-    private readonly string phoneNumber;
-
     public Person(string name, string surName, string phoneNumber)
     {
         this.Name = name;
